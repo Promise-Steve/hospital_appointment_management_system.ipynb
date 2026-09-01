@@ -2,6 +2,9 @@
 
 ## Project Overview
 
+<img width="1561" height="763" alt="Declaring variables" src="https://github.com/user-attachments/assets/e26542a4-6172-4598-bb15-b989894756ac" />
+
+
 The **Hospital Appointment Management System** is a simple Python-based system developed as part of the **Python Study Group – Case Study Project #2**.
 
 The project simulates how a hospital can manage patient appointments by collecting patient information, validating appointment details, categorising patients, determining appointment priority, and generating appointment reports.
