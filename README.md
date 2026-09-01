@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="hospital-appointment-cover.png" alt="Hospital Appointment Management System">
+</p>
+
 # Hospital Appointment Management System
 
 ## Project Overview
