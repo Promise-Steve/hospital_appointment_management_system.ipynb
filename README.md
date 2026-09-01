@@ -117,7 +117,7 @@ The main project file is a Jupyter Notebook containing the completed tasks and t
 
 ## Project Output
 
-A screenshot of the final program output is included in this repository.
+<img width="903" height="771" alt="Output-2" src="https://github.com/user-attachments/assets/e4db5620-0581-446a-ae15-c36e3c0b0821" />
 
 ## Learning Outcome
 
