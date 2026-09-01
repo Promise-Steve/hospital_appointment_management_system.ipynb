@@ -6,7 +6,7 @@ The **Hospital Appointment Management System** is a simple Python-based system d
 
 The project simulates how a hospital can manage patient appointments by collecting patient information, validating appointment details, categorising patients, determining appointment priority, and generating appointment reports.
 
-The project focuses on applying fundamental Python programming concepts to solve a real-world healthcare problem.
+The project applies fundamental Python programming concepts to solve a real-world healthcare problem.
 
 ## Project Objectives
 
@@ -55,9 +55,9 @@ The system checks whether the selected department is one of the hospital's avail
 * Orthopedics
 * Neurology
 
-### 3. Patient Categorization
+### 3. Patient Categorisation
 
-Patients are categorized according to their age:
+Patients are categorised according to their age:
 
 | Age   | Category |
 | ----- | -------- |
@@ -76,7 +76,7 @@ Appointment priority is determined using the following rules:
 
 ### 5. Multiple Appointment Processing
 
-A `for` loop is used to process multiple patient records, validate their information, determine their categories, and assign appointment priorities.
+A `for` loop processes multiple patient records, validates their information, determines their categories, and assigns appointment priorities.
 
 ### 6. Patient Registration
 
